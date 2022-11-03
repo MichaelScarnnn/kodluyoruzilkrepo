@@ -24,3 +24,11 @@ index.html dosyası da eklenerek ve README.md dosyasında istenilen değişiklik
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Image
+
+![projeresmi](image.png)
+
+## Patika Link
+
+https://app.patika.dev/michaelscarn
